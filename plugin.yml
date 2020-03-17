@@ -4,10 +4,10 @@ version: 2.1.0
 main: TungstenVn\Clothes\Clothes
 api:
 - 3.0.0
-author: TungstenVn
+author: AntaxioYT
 commands:
   clo:
-    description: Open clothes menu
+    description: Open clothes menu Go subs AntaxioYT
   clothes:
-    description: Open clothes menu
+    description: Open clothes menu Go subs AntaxioYT
 ...
